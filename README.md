@@ -11,7 +11,7 @@ Internet connection
 
 Lighting cable
 
-**When you have all of the necessary go to https://ios.cfw.guide/get-started/iPhone-5.html on Your computer/laptop and read the guide**
+**When you have all of the necessary go to** https://ios.cfw.guide/get-started/iPhone-5.html **on Your computer/laptop and read the guide**
 
 # [Step 2] Installing required certificates
 I know You was excited to open Cydia, so You did, but it doesn't load because it needs certificates!
