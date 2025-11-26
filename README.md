@@ -49,4 +49,6 @@ Aww man, i wish i could watch youtube on my iPhone 5-
 
 You can with TubeRepair by bag.xml, she made this majestic tweak!
 
+add bag.xml's repo `http://cydia.bag-xml.com/`
+
 I reccomend You to use Youtube 1.2.1 (you can install it from Veteris)
