@@ -11,25 +11,25 @@ Internet connection
 
 Lighting cable
 
-**When you have all of the necessary go to** https://ios.cfw.guide/get-started/iPhone-5.html **on Your computer/laptop and read the guide**
+**When You have everything you need go to:** `https://ios.cfw.guide/get-started/iPhone-5.html` **on Your computer/laptop and read the guide**
 
 # [Step 2] Installing required certificates
-I know You was excited to open Cydia, so You did, but it doesn't load because it needs certificates!
+Cydia needs some certificates to make it working, without them it will not load.
 
-What You need to do is just going to safari and put this link in the bar `tlsroot.litten.ca`
+What you need to do is just go to safari and put this link in the bar `tlsroot.litten.ca`.
 
 After that you need to click on "Signed iOS Bundle (iOS 5+)" and install them!
 
 # [Step 3] CoolBooter (optional if you already use iOS 6)
-[CoolBooter](https://coolbooter.com/) allows Us to dual-boot 2 versions of iOS. 
-In this guide we will use iOS 6 because it is the *fastest* version of iOS that can run in your iPhone 5
-After you installed the certificates from `step 2` open cydia and add this repo `https://coolbooter.com` (If You don't know how to add a repo [read this short tutorial.](https://ios.cfw.guide/it_IT/using-cydia/)) and download and install CoolBooter.
+[CoolBooter](https://coolbooter.com/) allows us to dual-boot 2 versions of iOS. 
+In this guide we will use iOS 6 because it is the *faster* version of iOS that can run on your iPhone 5
+After you installed the certificates from `step 2` open cydia and add this repo `https://coolbooter.com` (If you don't know how to add a repo, [read this short tutorial.](https://ios.cfw.guide/it_IT/using-cydia/)) and download and install CoolBooter.
 
 Now that You are in the CoolBooter app, tap on `install` and scroll until You select iOS 6.1.4, now select the amount of space you want to allocate for the iOS 6 partition by tapping on `storage`, now tap on `i'm ready` and follow all of the commands on screen, I reccomend you to choose to jailbreak your new iOS 6 installation because no other software than CoolCooter can jailbreak your iOS 6 partition, after CoolBooter completed It's job, reboot Your device when promted.
 
-After You rebooted your iPhone 5 open CoolBooter again and click on `boot` and lock your device when promted.
+After you rebooted your iPhone 5 open CoolBooter again and click on `boot` and lock your device when promted.
 
-Now set up iOS 6, when it tells You to sign into your Apple ID (now Apple Account) tap on `skip` because we will do it *later* with iFile by deleteng a few files and folders.
+Now set up iOS 6, when it tells you to sign into your Apple ID (now Apple Account) tap on `skip` because we will do it *later* with iFile by deleteng a few files and folders.
 
 Now you should be inside of iOS 6 without any problem!
 
@@ -48,10 +48,10 @@ To make it work You will need AppSyncUnified from `https://cydia.akemi.ai`
 
 "Aww man, i wish i could watch youtube on my iPhone 5-"
 
-You can with TubeRepair by bag.xml, she made this majestic tweak!
+You now can with TubeRepair by bag.xml, she made this majestic tweak!
 
-Add bag.xml's repo `http://cydia.bag-xml.com/`
+Add bag.xml's repo: `http://cydia.bag-xml.com/`
 
-After you added the repo and installed the tweak put a link for an active instance in the settings, my personal favorite is `https://tuberepair.uptimetrackers.com/`
+After you added the repo and installed the tweak put a link for an active instance in the settings (in the settings app scroll down until you find `TubeRepair`, now click on it and paste/write a URL for an active instance), my personal favorite is `https://tuberepair.uptimetrackers.com/`
 
 I reccomend You to use Youtube 1.2.1 (you can install it from Veteris)
